@@ -2,4 +2,4 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Zadanie4/.vs/KasynoWPF/v16/Server/sqlite3/db.lock
+/Zadanie4/.vs/KasynoWPF/v16/Server/sqlite3
